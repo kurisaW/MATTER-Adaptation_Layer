@@ -1,0 +1,4 @@
+[submodule "third_party/rtthread/rt-thread"]
+	path = third_party/rtthread/repo
+	url = https://github.com/RT-Thread/rt-thread.git
+	branch = v5.0.x
